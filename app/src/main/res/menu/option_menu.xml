@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+   <item
+       android:id="@+id/addNewExam"
+       android:title="Tạo Đề Thi( File PDF)"
+       android:icon="@drawable/ic_add_exam"
+       />
+   <item
+       android:id="@+id/myExam"
+       android:title="Đề Thi Của Tớ"
+       android:icon="@drawable/ic_my_exam"
+       />
+   <item
+       android:id="@+id/chatBot"
+       android:title="Chat Bot"
+       android:icon="@drawable/ic_chatbot"
+       />
+   <item
+       android:id="@+id/signOut"
+       android:title="Đăng Xuất"
+       android:icon="@drawable/ic_exit"
+       />
+
+</menu>
